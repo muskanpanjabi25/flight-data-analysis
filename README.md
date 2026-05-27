@@ -26,8 +26,7 @@ The project focuses on analyzing flight-related data to identify delays, airline
 # Installation / Execution Steps
 
 # Step 1: Clone the Repository
-git clone https://github.com/your-username/flight-data-analysis.git
-# Step 2: Open Google Colab
+https://github.com/muskanpanjabi25/flight-data-analysis.git
 Upload the .ipynb notebook file in Google Colab.
 
 # Step 3: Install Required Libraries
